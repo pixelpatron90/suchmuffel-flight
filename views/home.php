@@ -1,5 +1,6 @@
 <?php include __DIR__ . '/layout/header.php'; ?>
 <div class="w-8/12" id="">
+  <img src="https://i.ibb.co/DHBKrTbK/file-000000004360620a93831a4725def3a7.png" />
     <div class="bg-white rounded-lg shadow-lg p-6 sm:p-8">
       <form action="#" method="get" class="flex flex-col gap-y-3">
         <input type="search" name="q" placeholder="Suchbegriff..." aria-label="Suchbegriff"
