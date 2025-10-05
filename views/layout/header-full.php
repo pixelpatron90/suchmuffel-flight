@@ -6,4 +6,5 @@
   <title><?= htmlspecialchars($title ?? 'suchmuffel') ?></title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="flex flex-col bg-indigo-900 text-white">
+<body class="min-h-screen bg-indigo-900 text-white">
+  <main class="min-h-screen flex flex-col items-center justify-center">
