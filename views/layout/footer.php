@@ -1,4 +1,4 @@
-    <footer class="mt-12">
+    <footer class="mt-8">
     <p class="text-sm text-center">
       (c) 2025 suchmuffel.de und Alexander Bergmann
     </p>
