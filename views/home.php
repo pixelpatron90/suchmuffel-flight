@@ -1,5 +1,5 @@
 <?php include __DIR__ . '/layout/header.php'; ?>
-<div class="w-8/12" id="">
+<div class="w-8/12 sm:w-10/12" id="">
   <img src="https://i.ibb.co/tdqhp22/1000190903.png" />
     <div class="bg-white mt-4 rounded-lg shadow-lg p-6 sm:p-8">
       <form action="#" method="get" class="flex flex-col gap-y-3">
