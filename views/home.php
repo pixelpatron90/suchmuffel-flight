@@ -1,7 +1,7 @@
 <?php include __DIR__ . '/layout/header.php'; ?>
 <div class="w-8/12 sm:w-10/12" id="">
  <div class="flex justify-center items-center">
-  <img class="h-48" src="https://i.ibb.co/tdqhp22/1000190903.png" alt="suchmuffel" />
+  <img class="h-52 sm: h-72" src="https://i.ibb.co/tdqhp22/1000190903.png" alt="suchmuffel" />
 </div>
     <div class="bg-white mt-4 rounded-lg shadow-lg p-6 sm:p-8">
       <form action="#" method="get" class="flex flex-col gap-y-3">
