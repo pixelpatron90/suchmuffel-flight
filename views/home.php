@@ -13,7 +13,7 @@
       </form>
        <script>
     (function(){
-      var input = document.getElementById('q');
+      var input = document.getElementById('query');
       if(input) input.focus();
     })();
     </script>
