@@ -1,5 +1,5 @@
 <?php include __DIR__ . '/layout/header.php'; ?>
-<div class="w-8/12 sm:w-10/12" id="">
+<div class="w-9/12 sm:w-11/12" id="">
  <div class="flex justify-center items-center">
   <img class="h-48 sm:h-72" src="https://i.ibb.co/tdqhp22/1000190903.png" alt="suchmuffel" />
 </div>
