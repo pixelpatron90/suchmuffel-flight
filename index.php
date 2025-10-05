@@ -9,4 +9,11 @@ Flight::route('/', function() {
     ]);
 });
 
+Flight::route('/about', function() {
+    Flight::render('about', [
+      'layout' => 'detail',
+      'title' => 'About'
+    ]);
+});
+
 Flight::start();
