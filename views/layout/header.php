@@ -8,4 +8,6 @@
 </head>
 <body class="min-h-screen bg-indigo-900 text-white">
   <main class="min-h-screen flex flex-col items-center justify-center">
-    <?php echo $layout ?>
+    <?php if(!$layout == 'full'){ ?>
+    Navbar
+    <?php } ?>
