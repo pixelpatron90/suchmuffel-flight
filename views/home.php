@@ -5,9 +5,11 @@
 </div>
     <div class="bg-white mt-4 rounded-lg shadow-lg p-6 sm:p-8">
       <form action="#" method="get" class="flex flex-col gap-y-3">
-        <input type="search" name="q" placeholder="Suchbegriff..." aria-label="Suchbegriff"
+        <input type="search" name="query" placeholder="Wonach suchst du diesmal, Faulpelz?" aria-label="Suchbegriff"
                class="flex-1 px-4 py-3 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-blue-400" />
-        <button type="submit" class="px-5 py-3 bg-blue-600 text-white rounded-xl font-medium hover:bg-blue-700">Suchen</button>
+        <button type="submit" class="px-5 py-3 bg-blue-600 text-white rounded-xl font-medium hover:bg-blue-700">
+          Zaubersuche!
+          </button>
       </form>
     </div>
 </div>
